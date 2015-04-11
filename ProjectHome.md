@@ -1,0 +1,1 @@
+Proyecto simple de Java para pruebas básicas.
