@@ -8,4 +8,8 @@ public class Documento {
         return this.nombre;
     }
 
+    public void setNombre(final String nombre){
+        this.nombre = nombre;
+    }
+
 }
